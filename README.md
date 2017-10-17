@@ -1,2 +1,0 @@
-# ARTest
-Test project
