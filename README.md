@@ -1,0 +1,2 @@
+# DelphiProgDelFiles
+UpgradeLog.htm
